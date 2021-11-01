@@ -1,3 +1,4 @@
+# Tryggvi
 # ves2021 verkefni 2
 
 
