@@ -23,3 +23,5 @@
 
 
 
+# 7. PIR hreyfiskynjarinn
+# [mit led með motion](https://youtu.be/AvznZfPOOas)
